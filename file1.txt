@@ -1,0 +1,5 @@
+This is a message from a file in a repo that is a resource defined
+for this pipeline and then configured accessed by using get within 
+the job and then defined as an input for the job.
+
+Success!!!
