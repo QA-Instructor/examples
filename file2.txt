@@ -1,4 +1,4 @@
 This file is used to test the put step that outputs
 a commit in the repo
 
-The private key must be indented correctly to be read with erroring
+The private key must be indented correctly to be read without erroring
